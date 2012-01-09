@@ -6,7 +6,6 @@
 //  Copyright 2010 nicerobot.org. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
 #import <CommonCrypto/CommonCryptor.h>
 
 @interface NSData (AES)
